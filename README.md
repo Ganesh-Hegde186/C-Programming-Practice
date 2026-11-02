@@ -9,7 +9,7 @@ Student.c                      It stores the Student data.
 ContactManager.c	             Console contact book. Add, delete and search contacts, with the data saved to and loaded from a file.
 StudentRecorder.c	             It manages the Student data.
 calculator.c	                 Console calculator for basic arithmetic.
-temperature.c                  Temperature Convertion In Fahrenheit and Celcius.
+temperature.c                  Converts Temperature betweem Fahrenheit and Celcius.
 
 Topics covered
 Basics: input/output, conditions, loops
